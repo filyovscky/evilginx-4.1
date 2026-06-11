@@ -1,4 +1,4 @@
-# evilginx-4.1
+# evilginx-4.0
 <TG>:
 @ARKUu_12_8
 
