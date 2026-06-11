@@ -1,6 +1,6 @@
 # evilginx-4.1
 <TG>:
-@AR_KU
+@ARKUu_12_8
 
 Contact me on Telegram to find out about more tools and other resources.
 
